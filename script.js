@@ -7,9 +7,9 @@ document.getElementById("playMusic").addEventListener("click", function() {
   let music = document.getElementById("music");
   if (music.paused) {
     music.play();
-    this.innerText = "Pause Music ⏸️";
+    this.innerText = "pwoz.";
   } else {
     music.pause();
-    this.innerText = "Play Music 🎶";
+    this.innerText = "pwessyy";
   }
 });
